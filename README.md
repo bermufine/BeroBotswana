@@ -10,6 +10,7 @@
 "https://delivery.upictv.co.bw/NOW-TV-DNL/index.m3u8"
 ],
 "subtitleCam": "By Channel",
+"numberCam": "254",
 "thumbCam": "https://od.lk/s/M18yODM2MDUwMTNf/nowtv.jpg",
 "titleCam": "NOW TV"
 }
